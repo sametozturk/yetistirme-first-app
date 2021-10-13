@@ -10,7 +10,7 @@ const Counter = props => {
                     <Text style={styles.buttonText}>ARTTIR</Text>
                 </TouchableOpacity>
                 <TouchableOpacity style={styles.touchable}>
-                    <Text style={styles.buttonText}>AZALT</Text>
+                    <Text style={styles.buttonText}>AZALTsd</Text>
                 </TouchableOpacity>
             </View>
         </View>
